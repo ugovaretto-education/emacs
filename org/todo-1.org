@@ -1,0 +1,97 @@
+#+STARTUP: hidestars
+#+SEQ_TODO: NEXT(n) TODO(t) WAITING (w) SOMEDAY (s) PROJ (p) |  DONE (d) CANCELLED (c)
+#+TAGS: PERSONAL (p) WORK (w)
+#+STARTUP: latexpreview
+
+* GTD related things
+** NEXT Weekly Review
+
+* Legal obligations
+** DONE Call tax lawyer
+
+* PROJ Repair bycicle
+*** Deliver of spare part (chain)
+SCHEDULED: <2024-11-14 Thu>
+    I have chainF oredered, needs delivery
+
+* Family business
+** NEXT Get birthday for wife
+
+:A-DRAWER:
+fdafd
+afdaf
+:END:
+** NEXT Watch concert of son in school
+- Note taken on [2024-11-13 Wed 16:48] \\
+  gfgg
+- Note taken on [2024-11-13 Wed 16:48] \\
+  gggg
+   - Do not miss
+     :LOGBOOK:
+     
+     :END:
+
+* House stuff
+** SOMEDAY Bulld bike port in garden
+- Note taken on [2024-11-13 Wed 16:02] \\
+  And here is another note
+- Note taken on [2024-11-13 Wed 16:01] \\
+  this is a quick note
+  
+:FIRST-DRAWER:
+hello there
+:END:
+   Budget is $200
+=fgdsgfs= /fdsgfds/
+
+* FFF                                                                 :a:tag:
+** fdaf
+
+- Note taken on [2024-11-13 Wed 16:47] \\
+  ggg
+- Note taken on [2024-11-13 Wed 16:46] \\
+  gfsgfs
+:LOGBOOK:
+:END:
+
+- Note taken on [2024-11-13 Wed 16:46] \\
+  ahah
+#+begin_src elisp
+(+ 2 2)
+#+end_src
+
+#+RESULTS:
+: 4
+** gfsgfsd
+* fdfadafda
+
+* 2024-06 June
+** 13 [50%]
+   - [X] Task 1
+   - [ ] Task 2
+* 2024-07 July [2/3]
+ - [X] Task 1
+ - [X] Task 2
+ - [ ] Task 3
+
+* Esample table
+
+ | Name           | Address               | City            | Role              |
+ |----------------+-----------------------+-----------------+-------------------|
+ | Barack Obama   | 1600 Pennsylvania Av. | Washington D.C. | President         |
+ | Vladimir Putin | Kremlin               | Moscow          | Russian president |
+ |----------------+-----------------------+-----------------+-------------------|
+ |                |                       |                 |                   |
+ |                |                       |                 |                   |
+
+#+BEGIN clocktable :maxlevel 2 :scope subtree
+#+CAPTION: Clock summary at
+#+END
+
+
+\begin{equation}                        % arbitrary environments,
+x=\sqrt{b}                              % even tables, figures, etc
+\end{equation}
+
+If $a^2=b$ and \( b=2 \), then the solution must be
+either $$ a=+\sqrt{2} $$ or \[ a=-\sqrt{2} \].

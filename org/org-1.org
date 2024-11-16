@@ -1,0 +1,27 @@
+#+SEQ_TODO: NEXT(n) TODO(t) WAITING (w) SOMEDAY (s) | PROJECT (p) DONE (d) CANCELLED (c)
+
+* GTD related things
+** Weekly Review
+
+* Legal obligations
+** Prepare tax declaration
+  - Collect all documents for tax lawyer
+** Call tax lawyer
+
+* Maintenance
+** Wash car
+  - Wash and vacuum clean
+* Repair bycicle
+*** Deliver of spare part (chain)
+    I have chain oredered, needs delivery
+
+* Family business
+** Get birthday for wife
+** Watch concert of son in school
+   - Do not miss
+
+* House stuff
+** Bulld bike port in garden
+   Budget is $200
+
+   
